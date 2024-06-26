@@ -39,4 +39,5 @@ function skillsMember() {
         {name: 'Nuxt', level: 8},
         {name: 'Gatsby', level: 8},
         {name: 'Hugo', level: 8},
-        {name: 'Jekyll', level: 8
+        {name: 'Jekyll', level: 8}
+    ]};
